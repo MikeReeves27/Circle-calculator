@@ -1,4 +1,4 @@
-# Circle-calculator
+# Circle calculator
 
 A basic geometry calculator for a circle. This was my first personal Python project that I made for practise. 
 
